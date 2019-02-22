@@ -11,7 +11,7 @@ This quick example using Spring boot, JPA, Hibernat and MySql to have rest servi
 # CURD Operations and APIs
 
 + GET /api/notes
-![snapshot] ()
+![alt text](screenshots/getall.png "shows how get all works")
 + POST /api/notes
 + GET /api/notes/{noteId}
 + PUT /api/notes/{noteId}
