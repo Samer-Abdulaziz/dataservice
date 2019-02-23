@@ -5,7 +5,7 @@ This quick example using Spring boot, JPA, Hibernat and MySql to have rest servi
 
 + Install MySql
 + Java 1.8
-+ Maven
++ [Maven] (https://docs.wso2.com/display/IS323/Installing+Apache+Maven+on+Windows)
 + posman for doing the api calls 
 
 # Create Database using workbanch 
