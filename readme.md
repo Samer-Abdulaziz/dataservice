@@ -8,6 +8,13 @@ This quick example using Spring boot, JPA, Hibernat and MySql to have rest servi
 + Maven
 + posman for doing the api calls 
 
+# Create Database using workbanch 
+```
+create database notes_app;
+```
+\
+![alt text](screenshots/db_run.png "shows how to create DB from Workbanch")
+
 # CURD Operations and APIs
 
 + GET /api/notes\
